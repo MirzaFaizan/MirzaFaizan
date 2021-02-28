@@ -9,7 +9,7 @@
 
 ---
 
-I am a [Senior Developer @foodbit](https://mirzafaizan.me) focusing on blazing fast full-stack web apps and manging serverless apps (sometimes). My aim is to create compassionate products with code.
+I am a [Senior Developer](https://mirzafaizan.me) [@vntrs](https://vntrs.com) focusing on blazing fast full-stack web apps and manging serverless apps (sometimes). My aim is to create compassionate products with code.
 
 - 🔭 I’m currently working on
   - [@eluring](https://eluring.com) to help people overcome period stigma in 3rd world countries.
