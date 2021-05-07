@@ -13,10 +13,10 @@ I am a [Senior Developer](https://mirzafaizan.me) [@vntrs](https://vntrs.com) fo
 
 - 🔭 I’m currently working on
   - [@eluring](https://eluring.com) to help people overcome period stigma in 3rd world countries.
-  - [@petcare](https://connectedcows.herokuapp.com/) to help look after your cute pets and livestock animals (in case if you are a farmer).
+  - [@petcare](https://fit-bloop.vercel.app/) [@cowcare](https://connectedcows.herokuapp.com) to help look after your cute pets and livestock animals (in case if you are a farmer).
 - 🌱 I’m currently learning advance TypeScript and GraphQL.
 - 👯 I’m looking to collaborate on React open source.
 - 🤔 I’m looking for help with IoT devices.
-- 💬 Ask me about React, Node, Go, DevOps and Cloud.
+- 💬 Ask me about React, Node, Go.
 - 📫 How to reach me: tweet me `@mirzafaizanejaz`
 - ⚡ Fun fact: I can't hack your friend's account.
