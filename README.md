@@ -12,7 +12,7 @@
 I am an [Engineer](https://mirzafaizan.me) [@pipedrive](https://pipedrive.com) focusing on blazing fast frontend web apps and manging serverless apps (sometimes). My aim is to create compassionate products with code.
 
 - 🔭 I’m currently working on
-  - [@eluring](https://eluring.com) to help people overcome period stigma in 3rd world countries.
+  - project to help people overcome period stigma in 3rd world countries.
   - [@petcare](https://fit-bloop.vercel.app/) [@cowcare](https://connectedcows.herokuapp.com) to help look after your cute pets and livestock animals (in case if you are a farmer).
 - 🌱 I’m currently learning advance TypeScript and GraphQL.
 - 👯 I’m looking to collaborate on React open source.
