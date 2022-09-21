@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://gpvc.arturio.dev/mirzafaizan" alt="profile views"> •  
   <a href="https://twitter.com/intent/follow?screen_name=mirzafaizanejaz&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/mirzafaizanejaz?label=%40mirzafaizanejaz&style=social"></a>  •
+  <a href="https://mirzafaizan.netlify.app"> portfolio </a>
 </p>
 
 ---
