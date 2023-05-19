@@ -8,7 +8,7 @@
 
 ---
 
-I am an [Engineer](https://mirzafaizan.me) [@vntrs](https://vntrs.com) focusing on frontend web apps and manging serverless apps (sometimes). My aim is to create compassionate products with code.
+I am an [Engineer](https://mirzafaizan.me) focusing on frontend web apps and manging serverless apps (sometimes). My aim is to create compassionate products with code.
 
 - 🔭 I’m currently working on
   - project to help people overcome period stigma in 3rd world countries.
