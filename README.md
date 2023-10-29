@@ -12,7 +12,7 @@ I am an [Engineer](https://mirzafaizan.me) focusing on frontend web apps and man
 
 - 🔭 I’m currently working on
   - project to help people overcome period stigma in 3rd world countries.
-  - [@petcare](https://fit-bloop.vercel.app/) [@cowcare](https://connectedcows.herokuapp.com) to help look after your cute pets and livestock animals (in case if you are a farmer).
+  - ioT health colloars to help look after your cute pets and livestock animals (in case if you are a farmer).
 - 🌱 I’m currently learning advance TypeScript and GraphQL.
 - 👯 I’m looking to collaborate on React open source.
 - 🤔 I’m looking for help with IoT devices.
